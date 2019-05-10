@@ -14,3 +14,9 @@ This particular application is meant fo Bucharest public transport that offers 3
 3. 1 way ticket for Express line 780. To buy this ticket the application send an SMS to the number 7458 with the text “E783”
 
 enjoy!
+
+
+## Graphic resources offered by
+- **PhotoshopSupply**: [Free Photoshop Resources For Graphic Designers](https://www.photoshopsupply.com/)
+- **PSDDude**: [Photoshop Tutorials & Resources](http://www.psd-dude.com/)
+- **Textures4Photoshop** [High Quality Textures for Free](http://www.textures4photoshop.com/)
